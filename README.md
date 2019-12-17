@@ -1,3 +1,5 @@
+### This code is associated with the paper from Crombie et al., "Deep sampling of Hawaiian Caenorhabditis elegans reveals high genetic diversity and admixture with global populations". eLife, 2019. http://dx.doi.org/10.7554/eLife.50465
+
 # noaa-nf
 
 Nextflow pipeline to pull weather data from NOAA weather stations around the world by GPS coordinates. Specified for Andersen Lab looking at weather surrounding date of isolation of *C. elegans* isotypes.
